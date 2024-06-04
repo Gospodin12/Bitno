@@ -1,0 +1,30 @@
+﻿<Window x:Class="FlappyBirdIgra.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlappyBirdIgra"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="490" Width="525">
+    <Canvas Name="Kanvas" Focusable="True" KeyDown="TasterDole" KeyUp="TasterGore" Background="LightBlue">
+        <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Left="44" Canvas.Top="70" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="oblak"></Image>
+        <Image Height="145" Width="200" Source="images/clouds2.png" Canvas.Left="280" Canvas.Top="237" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="oblak"></Image>
+
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Canvas.Left="44" Canvas.Top="237" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="cev1"></Image>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Canvas.Left="44" Canvas.Top="-320" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="cev1"></Image>
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Canvas.Left="244" Canvas.Top="408" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="cev2"></Image>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Canvas.Left="244" Canvas.Top="-125" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="cev2"></Image>
+
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Canvas.Left="415" Canvas.Top="310" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="cev3"></Image>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Canvas.Left="415" Canvas.Top="-241" HorizontalAlignment="Left" VerticalAlignment="Top" Tag="cev3"></Image>
+
+
+        <Image Name="ptica" Height="36" Width="50" Source="images/flappyBird.png" Canvas.Left="10" Canvas.Top="113" HorizontalAlignment="Center" VerticalAlignment="Top"></Image>
+        <Label Name="Rezultat" FontSize="22" FontWeight="Bold" Content="Score: 0"></Label>
+
+
+    </Canvas>
+</Window>

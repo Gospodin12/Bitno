@@ -1,0 +1,16 @@
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.csproj.AssemblyReference.cache
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\MainWindow.g.cs
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\App.g.cs
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra_Content.g.cs
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra_MarkupCompile.cache
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra_MarkupCompile.lref
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\bin\Debug\FlappyBirdIgra.exe.config
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\bin\Debug\FlappyBirdIgra.exe
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\bin\Debug\FlappyBirdIgra.pdb
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\MainWindow.baml
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.g.resources
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.Properties.Resources.resources
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.csproj.GenerateResource.cache
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.exe
+C:\Users\Vuk\Desktop\FlappyBird Dokumentacija\FlappyBirdIgra\FlappyBirdIgra\obj\Debug\FlappyBirdIgra.pdb
